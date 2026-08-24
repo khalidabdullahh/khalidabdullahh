@@ -1,22 +1,15 @@
 <div align="center">
 
 <!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,6,12,24&height=220&section=header&text=Khalid%20Abdullah&fontSize=50&fontColor=ffffff&animation=fadeIn&subtext=Full-Stack%20Developer%20%E2%80%A2%20Game%20Architect%20%E2%80%A2%20Creative%20Technologist&subfontSize=17&subfontColor=ffd32a" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,6,12,24&height=220&section=header&text=Khalid%20Abdullah&fontSize=52&fontColor=ffffff&animation=fadeIn&subtext=Full-Stack%20Software%20Engineer%20%E2%80%A2%20Game%20Architect&subfontSize=18&subfontColor=ffd32a" width="100%"/>
 
-<!-- Typing SVG Animation -->
+<!-- Enhanced Typing SVG Animation -->
 <a href="https://github.com/khalidabdullahh">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2800&pause=1000&color=FF4757&center=true&vCenter=true&width=800&lines=Building+scalable+full-stack+web+systems+%26+modern+apps;Architecting+interactive+physics+engines+%26+PWA+games;Passionate+about+clean+code%2C+high+performance+%26+UI%2FUX;Transforming+ambitious+ideas+into+production-ready+software" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=900&color=FF4757&center=true&vCenter=true&width=850&lines=%F0%9F%91%8B+Hi+there%2C+I'm+Khalid+Abdullah;%F0%9F%9A%80+Full-Stack+Engineer+building+scalable+modern+web+apps;%F0%9F%8E%AE+Game+Architect+crafting+real-time+physics+engines+%26+PWAs;%E2%9A%A1+Passionate+about+creative+tech%2C+high+performance+%26+clean+code" alt="Typing SVG" />
 </a>
 
-<br/>
-
-<!-- Top Badges Row -->
 <p align="center">
-  <a href="mailto:seamafridi123456789@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://www.linkedin.com/in/khalid-abdullah-847724339" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://wa.me/8801643526721" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
-  <a href="https://www.facebook.com/khalidabdullah19" target="_blank"><img src="https://img.shields.io/badge/Facebook-Profile-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
-  <img src="https://komarev.com/ghpvc/?username=khalidabdullahh&label=Profile%20Views&color=ff4757&style=for-the-badge" alt="Profile Views"/>
+  <i>"Keep your code clean, your architecture resilient, and your curiosity boundless."</i>
 </p>
 
 </div>
@@ -30,25 +23,29 @@ const khalid = {
   name: "Khalid Abdullah",
   role: "Full-Stack Software Engineer & Game Developer",
   location: "Bangladesh",
-  passions: ["Full-Stack Architecture", "Game Physics & Engines", "Creative UI/UX", "High-Performance Systems"],
-  currentFocus: "Building production-grade web applications and high-fidelity interactive games",
-  mindset: "Keep your code clean, your architectures resilient, and your curiosity boundless."
+  passions: [
+    "Full-Stack Web Architecture",
+    "Game Physics & Canvas Engines",
+    "Creative UI/UX & Responsive Design",
+    "High-Performance Systems & Cloud"
+  ],
+  currentFocus: "Building production-grade web applications and high-fidelity interactive games"
 };
 ```
 
-👋 Hey there! I'm **Khalid**, a passionate **Full-Stack Developer & Game Architect** dedicated to crafting intuitive digital products, resilient distributed backends, and responsive canvas game engines. I specialize in turning complex challenges into streamlined, high-performance user experiences.
+👋 Welcome! I'm **Khalid**, a passionate **Full-Stack Software Engineer & Game Developer** dedicated to building intuitive web applications, robust backends, and responsive canvas game engines. I love turning ambitious ideas into polished, high-performance software experiences.
 
 ---
 
-### 🧠 My Core Focus Areas
+### 🧠 Core Focus Areas
 
-- 🚀 **Full-Stack Engineering:** Scalable microservices, RESTful APIs, and reactive SPAs built with modern TypeScript, React, Next.js, and Node.js.
-- 🎮 **Game Physics & Interactive Graphics:** Zero-dependency procedural 2D/3D canvas engines, real-time audio synthesis (Web Audio API), and PWA architecture.
-- ⚡ **Database & Cloud Optimization:** Efficient query designs, state management, Docker containerization, and seamless CI/CD delivery.
+- 🚀 **Full-Stack Web Engineering:** Scalable microservices, RESTful APIs, and reactive SPAs built with modern TypeScript, React, Next.js, and Node.js.
+- 🎮 **Game Physics & Canvas Engines:** Zero-dependency procedural 2D canvas engines, real-time audio synthesis (Web Audio API), and PWA architectures.
+- ⚡ **Database & Cloud Systems:** Efficient database queries (PostgreSQL, MongoDB), Docker containerization, and seamless CI/CD delivery pipelines.
 
 ---
 
-### 🛠️ Tech Stack & Tooling
+### 🛠️ Languages & Tools
 
 <div align="center">
 
@@ -115,19 +112,55 @@ const khalid = {
 
 ### 🤝 Connect with Me
 
-<p align="center">
-  <a href="mailto:seamafridi123456789@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-  <a href="https://www.linkedin.com/in/khalid-abdullah-847724339" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://wa.me/8801643526721" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
-  <a href="https://www.facebook.com/khalidabdullah19" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
-  <a href="https://github.com/khalidabdullahh"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-</p>
+<div align="center">
+
+<p>Feel free to reach out for collaborations, project inquiries, or just to say hello!</p>
+
+<table border="0">
+  <tr>
+    <td align="center">
+      <a href="mailto:seamafridi123456789@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-seamafridi123456789%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/khalid-abdullah-847724339" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-Khalid%20Abdullah-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://wa.me/8801643526721" target="_blank">
+        <img src="https://img.shields.io/badge/WhatsApp-%2B8801643526721-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.facebook.com/khalidabdullah19" target="_blank">
+        <img src="https://img.shields.io/badge/Facebook-khalidabdullah19-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <a href="https://github.com/khalidabdullahh">
+        <img src="https://img.shields.io/badge/GitHub-khalidabdullahh-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
+</div>
 
 ---
 
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,12,6,1&height=100&section=footer" width="100%"/>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=khalidabdullahh&label=Profile%20Views&color=ff4757&style=flat-square" alt="Profile Views"/>
+</p>
 
 <p>⚡ <i>"Stay curious, keep building, and never stop leveling up."</i> ⚡</p>
 
