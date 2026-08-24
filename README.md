@@ -86,7 +86,7 @@ const khalid = {
       <p>An intelligent, ATS-friendly resume creator featuring 10 customizable professional models, Google Gemini AI writing assistant, and 1-click HD PDF export.</p>
       <p align="center">
         <a href="https://first-project-plum-phi.vercel.app"><b>🚀 Live Web App</b></a> &nbsp;|&nbsp;
-        <a href="https://github.com/khalidabdullahh/CV-Builder"><b>📂 Source Code</b></a>
+        <i>🔒 Proprietary Source</i>
       </p>
     </td>
   </tr>
