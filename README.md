@@ -75,7 +75,7 @@ const khalid = {
       <p>A deceptive, trap-filled 2D HTML5 platformer inspired by Level Devil with procedural Web Audio sound synthesis, mobile touch gamepad, and offline PWA capability.</p>
       <p align="center">
         <a href="https://khalidabdullahh.github.io/Oops/"><b>🕹️ Play Live in Browser</b></a> &nbsp;|&nbsp;
-        <i>🔒 Proprietary Source</i>
+        <a href="https://github.com/khalidabdullahh/Oops"><b>📂 Source Code</b></a>
       </p>
     </td>
     <td width="50%" valign="top">
@@ -86,7 +86,7 @@ const khalid = {
       <p>An intelligent, ATS-friendly resume creator featuring 10 customizable professional models, Google Gemini AI writing assistant, and 1-click HD PDF export.</p>
       <p align="center">
         <a href="https://first-project-plum-phi.vercel.app"><b>🚀 Live Web App</b></a> &nbsp;|&nbsp;
-        <i>🔒 Proprietary Source</i>
+        <a href="https://github.com/khalidabdullahh/CV-Builder"><b>📂 Source Code</b></a>
       </p>
     </td>
   </tr>
