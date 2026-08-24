@@ -1,0 +1,91 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 230" width="100%" height="230">
+  <defs>
+    <!-- Background Gradient -->
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#070a12" />
+      <stop offset="50%" stop-color="#0c1220" />
+      <stop offset="100%" stop-color="#070a12" />
+    </linearGradient>
+
+    <!-- Accent Border Gradient -->
+    <linearGradient id="borderGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#38bdf8" stop-opacity="0.6"/>
+      <stop offset="50%" stop-color="#a855f7" stop-opacity="0.8"/>
+      <stop offset="100%" stop-color="#ff4757" stop-opacity="0.6"/>
+    </linearGradient>
+
+    <!-- Glow Filter -->
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="3" result="blur" />
+      <feComposite in="SourceGraphic" in2="blur" operator="over" />
+    </filter>
+  </defs>
+
+  <style>
+    .title {
+      font-family: 'Fira Code', 'JetBrains Mono', 'Courier New', monospace;
+      font-size: 42px;
+      font-weight: 700;
+      letter-spacing: 1px;
+    }
+    .bracket { fill: #38bdf8; }
+    .name { fill: #ffffff; }
+    .subtext {
+      font-family: 'Fira Code', 'JetBrains Mono', 'Courier New', monospace;
+      font-size: 16px;
+      font-weight: 500;
+      fill: #ffd32a;
+      letter-spacing: 0.5px;
+    }
+    .term-dot { r: 6; }
+    .term-title {
+      font-family: 'Fira Code', monospace;
+      font-size: 12px;
+      fill: #64748b;
+    }
+    .grid-line {
+      stroke: rgba(56, 189, 248, 0.05);
+      stroke-width: 1;
+    }
+  </style>
+
+  <!-- Card Background -->
+  <rect x="2" y="2" width="896" height="226" rx="16" fill="url(#bgGrad)" stroke="url(#borderGrad)" stroke-width="2" />
+
+  <!-- Background Grid Lines -->
+  <line x1="0" y1="50" x2="900" y2="50" class="grid-line"/>
+  <line x1="0" y1="100" x2="900" y2="100" class="grid-line"/>
+  <line x1="0" y1="150" x2="900" y2="150" class="grid-line"/>
+  <line x1="0" y1="200" x2="900" y2="200" class="grid-line"/>
+  <line x1="200" y1="0" x2="200" y2="230" class="grid-line"/>
+  <line x1="450" y1="0" x2="450" y2="230" class="grid-line"/>
+  <line x1="700" y1="0" x2="700" y2="230" class="grid-line"/>
+
+  <!-- Terminal Header Bar -->
+  <rect x="2" y="2" width="896" height="38" rx="16" fill="#0b0f19" fill-opacity="0.9" />
+  <rect x="2" y="20" width="896" height="20" fill="#0b0f19" fill-opacity="0.9" />
+  <line x1="2" y1="39" x2="898" y2="39" stroke="#1e293b" stroke-width="1" />
+
+  <!-- Terminal Window Controls -->
+  <circle cx="28" cy="20" r="6" fill="#ff5f56" />
+  <circle cx="48" cy="20" r="6" fill="#ffbd2e" />
+  <circle cx="68" cy="20" r="6" fill="#27c93f" />
+  <text x="450" y="24" text-anchor="middle" class="term-title">khalid@workspace:~ (zsh)</text>
+
+  <!-- Main Coder Name with Tag -->
+  <g filter="url(#glow)">
+    <text x="450" y="115" text-anchor="middle" class="title">
+      <tspan class="bracket">&lt;</tspan>
+      <tspan class="name"> Khalid Abdullah </tspan>
+      <tspan class="bracket">/&gt;</tspan>
+    </text>
+  </g>
+
+  <!-- Subtitle Comment -->
+  <text x="450" y="165" text-anchor="middle" class="subtext">
+    // Full-Stack Software Engineer • Game Architect • Creative Technologist
+  </text>
+
+  <!-- Glowing Bottom Line -->
+  <rect x="300" y="195" width="300" height="2" rx="1" fill="url(#borderGrad)" />
+</svg>

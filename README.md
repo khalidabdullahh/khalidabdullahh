@@ -1,7 +1,9 @@
 <div align="center">
 
-<!-- Dark Minimal Coder Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0e17,35:121b2d,65:162035,100:0a0e17&height=200&section=header&text=%3C%20Khalid%20Abdullah%20%2F%3E&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=45&subtext=%2F%2F%20Full-Stack%20Software%20Engineer%20%E2%80%A2%20Game%20Architect%20%E2%80%A2%20Creative%20Technologist&subfontSize=16&subfontColor=ffd32a" width="100%"/>
+<!-- Dark Minimal Coder Header SVG -->
+<img src="header.svg" width="100%" alt="Khalid Abdullah Header"/>
+
+<br/>
 
 <!-- Terminal Coder Typing Animation -->
 <a href="https://github.com/khalidabdullahh">
@@ -155,8 +157,6 @@ const khalid = {
 ---
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0e17,50:121b2d,100:0a0e17&height=50&section=footer" width="100%"/>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=khalidabdullahh&label=Profile%20Views&color=00f2fe&style=flat-square" alt="Profile Views"/>
