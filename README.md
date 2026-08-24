@@ -70,12 +70,12 @@ const khalid = {
     <td width="50%" valign="top">
       <h3 align="center">🎮 Oops! — 2D Platformer</h3>
       <p align="center">
-        <a href="https://khalidabdullahh.github.io/Oops/"><img src="https://raw.githubusercontent.com/khalidabdullahh/Oops/main/screenshots/01_title_screen.jpg" width="100%" alt="Oops! Game"/></a>
+        <img src="oops_preview.jpg" width="100%" alt="Oops! Game"/>
       </p>
       <p>A deceptive, trap-filled 2D HTML5 platformer inspired by Level Devil with procedural Web Audio sound synthesis, mobile touch gamepad, and offline PWA capability.</p>
       <p align="center">
         <a href="https://khalidabdullahh.github.io/Oops/"><b>🕹️ Play Live in Browser</b></a> &nbsp;|&nbsp;
-        <a href="https://github.com/khalidabdullahh/Oops"><b>📂 Source Code</b></a>
+        <i>🔒 Proprietary Source</i>
       </p>
     </td>
     <td width="50%" valign="top">
