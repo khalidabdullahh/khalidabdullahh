@@ -1,15 +1,15 @@
 <div align="center">
 
-<!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,6,12,24&height=220&section=header&text=Khalid%20Abdullah&fontSize=52&fontColor=ffffff&animation=fadeIn&subtext=Full-Stack%20Software%20Engineer%20%E2%80%A2%20Game%20Architect&subfontSize=18&subfontColor=ffd32a" width="100%"/>
+<!-- Dark Minimal Coder Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0e17,35:121b2d,65:162035,100:0a0e17&height=200&section=header&text=%3C%20Khalid%20Abdullah%20%2F%3E&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=45&subtext=%2F%2F%20Full-Stack%20Software%20Engineer%20%E2%80%A2%20Game%20Architect%20%E2%80%A2%20Creative%20Technologist&subfontSize=16&subfontColor=ffd32a" width="100%"/>
 
-<!-- Enhanced Typing SVG Animation -->
+<!-- Terminal Coder Typing Animation -->
 <a href="https://github.com/khalidabdullahh">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=900&color=FF4757&center=true&vCenter=true&width=850&lines=%F0%9F%91%8B+Hi+there%2C+I'm+Khalid+Abdullah;%F0%9F%9A%80+Full-Stack+Engineer+building+scalable+modern+web+apps;%F0%9F%8E%AE+Game+Architect+crafting+real-time+physics+engines+%26+PWAs;%E2%9A%A1+Passionate+about+creative+tech%2C+high+performance+%26+clean+code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=2400&pause=800&color=00F2FE&center=true&vCenter=true&width=850&lines=%3E_++const+developer+%3D+%7B+name%3A+%22Khalid+Abdullah%22+%7D%3B;%3E_++build(%22Scalable+Full-Stack+Web+Applications%22)%3B;%3E_++craft(%22Real-Time+Game+Engines+%26+PWAs%22)%3B;%3E_++optimize(%22High-Performance+Code+%26+Clean+Architecture%22)%3B" alt="Typing SVG" />
 </a>
 
 <p align="center">
-  <i>"Keep your code clean, your architecture resilient, and your curiosity boundless."</i>
+  <code>⚡ "Keep your code clean, your architecture resilient, and your curiosity boundless." ⚡</code>
 </p>
 
 </div>
@@ -156,12 +156,10 @@ const khalid = {
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,12,6,1&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0e17,50:121b2d,100:0a0e17&height=50&section=footer" width="100%"/>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=khalidabdullahh&label=Profile%20Views&color=ff4757&style=flat-square" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=khalidabdullahh&label=Profile%20Views&color=00f2fe&style=flat-square" alt="Profile Views"/>
 </p>
-
-<p>⚡ <i>"Stay curious, keep building, and never stop leveling up."</i> ⚡</p>
 
 </div>
