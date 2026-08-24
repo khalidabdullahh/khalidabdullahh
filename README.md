@@ -80,7 +80,7 @@ const khalid = {
     <td width="50%" valign="top">
       <h3 align="center">📊 Trading-OS</h3>
       <p align="center">
-        <img src="https://raw.githubusercontent.com/khalidabdullahh/Oops/main/screenshots/02_gameplay_traps.jpg" width="100%" alt="Trading-OS"/>
+        <a href="https://github.com/khalidabdullahh/Trading-OS"><img src="trading_os_preview.png" width="100%" alt="Trading-OS"/></a>
       </p>
       <p>A modern financial market analytics and trading operating system architecture designed for real-time charting, telemetry, and portfolio tracking.</p>
       <p align="center">
@@ -99,32 +99,13 @@ const khalid = {
 <table border="0">
   <tr>
     <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=khalidabdullahh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ff4757&icon_color=ffd32a&text_color=c9d1d9" alt="GitHub Stats" width="100%"/>
+      <img src="https://github-stats-alpha.vercel.app/api?username=khalidabdullahh&cc=0d1117&tc=ff4757&ic=ffd32a&bc=00000000" alt="GitHub Stats" width="100%"/>
     </td>
     <td align="center" width="50%">
       <img src="https://streak-stats.demolab.com/?user=khalidabdullahh&theme=tokyonight&hide_border=true&background=0d1117&ring=ff4757&fire=ffd32a&currStreakLabel=ff4757&currStreakNum=ffd32a" alt="GitHub Streak" width="100%"/>
     </td>
   </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khalidabdullahh&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ff4757&text_color=c9d1d9" alt="Top Languages" width="80%"/>
-    </td>
-  </tr>
 </table>
-
-</div>
-
----
-
-### 🐍 Contribution Activity & Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/khalidabdullahh/khalidabdullahh/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/khalidabdullahh/khalidabdullahh/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake" src="https://raw.githubusercontent.com/khalidabdullahh/khalidabdullahh/output/github-contribution-grid-snake.svg" width="100%">
-</picture>
 
 </div>
 
