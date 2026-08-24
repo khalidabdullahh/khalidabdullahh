@@ -70,7 +70,7 @@ const khalid = {
     <td width="50%" valign="top">
       <h3 align="center">🎮 Oops! — 2D Platformer</h3>
       <p align="center">
-        <img src="oops_preview.jpg" width="100%" alt="Oops! Game"/>
+        <a href="https://khalidabdullahh.github.io/Oops/"><img src="oops_preview.jpg" width="100%" alt="Oops! Game"/></a>
       </p>
       <p>A deceptive, trap-filled 2D HTML5 platformer inspired by Level Devil with procedural Web Audio sound synthesis, mobile touch gamepad, and offline PWA capability.</p>
       <p align="center">
@@ -79,13 +79,14 @@ const khalid = {
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">📊 Trading-OS</h3>
+      <h3 align="center">📄 CV-Builder — AI Resume Generator</h3>
       <p align="center">
-        <a href="https://github.com/khalidabdullahh/Trading-OS"><img src="trading_os_preview.png" width="100%" alt="Trading-OS"/></a>
+        <a href="https://first-project-plum-phi.vercel.app"><img src="cv_builder_preview.png" width="100%" alt="CV-Builder"/></a>
       </p>
-      <p>A modern financial market analytics and trading operating system architecture designed for real-time charting, telemetry, and portfolio tracking.</p>
+      <p>An intelligent, ATS-friendly resume creator featuring 10 customizable professional models, Google Gemini AI writing assistant, and 1-click HD PDF export.</p>
       <p align="center">
-        <a href="https://github.com/khalidabdullahh/Trading-OS"><b>📂 View Repository</b></a>
+        <a href="https://first-project-plum-phi.vercel.app"><b>🚀 Live Web App</b></a> &nbsp;|&nbsp;
+        <a href="https://github.com/khalidabdullahh/CV-Builder"><b>📂 Source Code</b></a>
       </p>
     </td>
   </tr>
