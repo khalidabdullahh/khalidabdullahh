@@ -28,14 +28,14 @@ const khalid = {
   passions: [
     "Full-Stack Web Architecture",
     "Game Physics & Canvas Engines",
-    "Creative UI/UX & Responsive Design",
-    "High-Performance Systems & Cloud"
+    "Quantitative Tools & AI Workflows",
+    "Creative UI/UX & Responsive Design"
   ],
-  currentFocus: "Building production-grade web applications and high-fidelity interactive games"
+  currentFocus: "Building production-grade web applications, quantitative tools, and interactive games"
 };
 ```
 
-👋 Welcome! I'm **Khalid**, a passionate **Full-Stack Software Engineer & Game Developer** dedicated to building intuitive web applications, robust backends, and responsive canvas game engines. I love turning ambitious ideas into polished, high-performance software experiences.
+👋 Welcome! I'm **Khalid**, a passionate **Full-Stack Software Engineer & Game Developer** dedicated to building intuitive web applications, robust quantitative tools, and responsive canvas game engines. I love turning ambitious ideas into polished, high-performance software experiences.
 
 ---
 
@@ -43,6 +43,7 @@ const khalid = {
 
 - 🚀 **Full-Stack Web Engineering:** Scalable microservices, RESTful APIs, and reactive SPAs built with modern TypeScript, React, Next.js, and Node.js.
 - 🎮 **Game Physics & Canvas Engines:** Zero-dependency procedural 2D canvas engines, real-time audio synthesis (Web Audio API), and PWA architectures.
+- 🧪 **AI & Quantitative Tools:** Intelligent resume generators, financial market regime classifiers (HMM), and interactive analytics simulators.
 - ⚡ **Database & Cloud Systems:** Efficient database queries (PostgreSQL, MongoDB), Docker containerization, and seamless CI/CD delivery pipelines.
 
 ---
@@ -68,9 +69,9 @@ const khalid = {
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🎮 Oops! — 2D Platformer</h3>
+      <h3 align="center">🎮 Oops! — 2D Ninja Platformer</h3>
       <p align="center">
-        <a href="https://khalidabdullahh.github.io/Oops/"><img src="oops_preview.jpg" width="100%" alt="Oops! Game"/></a>
+        <a href="https://khalidabdullahh.github.io/Oops/"><img src="oops_preview.png" width="100%" alt="Oops! Game"/></a>
       </p>
       <p>A deceptive, trap-filled 2D HTML5 platformer inspired by Level Devil with procedural Web Audio sound synthesis, mobile touch gamepad, and offline PWA capability.</p>
       <p align="center">
@@ -78,6 +79,19 @@ const khalid = {
         <a href="https://github.com/khalidabdullahh/Oops"><b>📂 Source Code</b></a>
       </p>
     </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🧪 Khalid Digital Lab</h3>
+      <p align="center">
+        <a href="https://khalid-digital-lab.vercel.app"><img src="digital_lab_preview.png" width="100%" alt="Khalid Digital Lab"/></a>
+      </p>
+      <p>Interactive personal digital laboratory & innovation hub featuring HMM market regime classifiers, interactive ATS matching, and developer CLI tools.</p>
+      <p align="center">
+        <a href="https://khalid-digital-lab.vercel.app"><b>🚀 Live Web App</b></a> &nbsp;|&nbsp;
+        <a href="https://github.com/khalidabdullahh/khalid-digital-lab"><b>📂 Source Code</b></a>
+      </p>
+    </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3 align="center">📄 CV-Builder — AI Resume Generator</h3>
       <p align="center">
@@ -87,6 +101,17 @@ const khalid = {
       <p align="center">
         <a href="https://first-project-plum-phi.vercel.app"><b>🚀 Live Web App</b></a> &nbsp;|&nbsp;
         <a href="https://github.com/khalidabdullahh/CV-Builder"><b>📂 Source Code</b></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">📊 Trading-OS</h3>
+      <p align="center">
+        <a href="https://trading-os-blue.vercel.app"><img src="trading_os_preview.png" width="100%" alt="Trading-OS"/></a>
+      </p>
+      <p>A modern financial market analytics and trading operating system architecture designed for real-time charting, telemetry, and portfolio tracking.</p>
+      <p align="center">
+        <a href="https://trading-os-blue.vercel.app"><b>🚀 Live Web App</b></a> &nbsp;|&nbsp;
+        <a href="https://github.com/khalidabdullahh/Trading-OS"><b>📂 Source Code</b></a>
       </p>
     </td>
   </tr>
