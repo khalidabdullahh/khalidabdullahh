@@ -71,11 +71,11 @@ const khalid = {
     <td width="50%" valign="top">
       <h3 align="center">🎮 Oops! — 2D Ninja Platformer</h3>
       <p align="center">
-        <a href="https://khalidabdullahh.github.io/Oops/"><img src="oops_preview.png" width="100%" alt="Oops! Game"/></a>
+        <a href="https://oops-snowy-three.vercel.app/"><img src="oops_preview.png" width="100%" alt="Oops! Game"/></a>
       </p>
       <p>A deceptive, trap-filled 2D HTML5 platformer inspired by Level Devil with procedural Web Audio sound synthesis, mobile touch gamepad, and offline PWA capability.</p>
       <p align="center">
-        <a href="https://khalidabdullahh.github.io/Oops/"><b>🕹️ Play Live in Browser</b></a> &nbsp;|&nbsp;
+        <a href="https://oops-snowy-three.vercel.app/"><b>🕹️ Play Live in Browser</b></a> &nbsp;|&nbsp;
         <a href="https://github.com/khalidabdullahh/Oops"><b>📂 Source Code</b></a>
       </p>
     </td>
