@@ -129,7 +129,7 @@ const khalid = {
       <img src="https://github-stats-alpha.vercel.app/api?username=khalidabdullahh&cc=0d1117&tc=ff4757&ic=ffd32a&bc=00000000" alt="GitHub Stats" width="100%"/>
     </td>
     <td align="center" width="50%">
-      <img src="https://streak-stats.demolab.com/?user=khalidabdullahh&theme=tokyonight&hide_border=true&background=0d1117&ring=ff4757&fire=ffd32a&currStreakLabel=ff4757&currStreakNum=ffd32a" alt="GitHub Streak" width="100%"/>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=khalidabdullahh&theme=tokyonight&hide_border=true&background=0d1117&ring=ff4757&fire=ffd32a&currStreakLabel=ff4757&currStreakNum=ffd32a" alt="GitHub Streak" width="100%"/>
     </td>
   </tr>
 </table>
