@@ -147,12 +147,12 @@ const khalid = {
 <table border="0">
   <tr>
     <td align="center">
-      <a href="mailto:seamafridi123456789@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-seamafridi123456789%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+      <a href="mailto:seamafridi1237890@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-seamafridi1237890%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
       </a>
     </td>
     <td align="center">
-      <a href="https://www.linkedin.com/in/khalid-abdullah-847724339" target="_blank">
+      <a href="https://www.linkedin.com/in/khalidabdullahh/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-Khalid%20Abdullah-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
       </a>
     </td>
