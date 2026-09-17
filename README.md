@@ -7,7 +7,7 @@
 
 <!-- Terminal Coder Typing Animation -->
 <a href="https://github.com/khalidabdullahh">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=2400&pause=800&color=00F2FE&center=true&vCenter=true&width=850&lines=%3E_++const+developer+%3D+%7B+name%3A+%22Khalid+Abdullah%22+%7D%3B;%3E_++build(%22Scalable+Full-Stack+Web+Applications%22)%3B;%3E_++craft(%22Real-Time+Game+Engines+%26+PWAs%22)%3B;%3E_++optimize(%22High-Performance+Code+%26+Clean+Architecture%22)%3B" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=2400&pause=800&color=00F2FE&center=true&vCenter=true&width=850&lines=%3E_++const+developer+%3D+%7B+name%3A+%22Khalid+Abdullah%22+%7D%3B;%3E_++build(%22Scalable+Full-Stack+Web+Applications%22)%3B;%3E_++craft(%22Native+Android+Apps+%26+Mobile+Utilities%22)%3B;%3E_++engineer(%22Quantitative+Trading+Terminals+%26+AI+Tools%22)%3B" alt="Typing SVG" />
 </a>
 
 <p align="center">
@@ -23,28 +23,28 @@
 ```javascript
 const khalid = {
   name: "Khalid Abdullah",
-  role: "Full-Stack Software Engineer & Game Developer",
+  role: "Full-Stack Software Engineer & Mobile Systems Developer",
   location: "Bangladesh",
   passions: [
-    "Full-Stack Web Architecture",
-    "Game Physics & Canvas Engines",
-    "Quantitative Tools & AI Workflows",
-    "Creative UI/UX & Responsive Design"
+    "Full-Stack Web Architecture & Cloud APIs",
+    "Native Android Development (Kotlin & Jetpack Compose)",
+    "Quantitative Financial Terminals & AI Workflows",
+    "High-Performance Utilities & Esports Tournament Platforms"
   ],
-  currentFocus: "Building production-grade web applications, quantitative tools, and interactive games"
+  currentFocus: "Building production-grade web systems, native mobile utilities, and quantitative engineering tools"
 };
 ```
 
-👋 Welcome! I'm **Khalid**, a passionate **Full-Stack Software Engineer & Game Developer** dedicated to building intuitive web applications, robust quantitative tools, and responsive canvas game engines. I love turning ambitious ideas into polished, high-performance software experiences.
+👋 Welcome! I'm **Khalid**, a passionate **Full-Stack Software Engineer & Mobile Developer** dedicated to building intuitive web applications, robust quantitative tools, native Android utilities, and cloud-scale platforms. I love turning ambitious ideas into polished, high-performance software experiences.
 
 ---
 
 ### 🧠 Core Focus Areas
 
 - 🚀 **Full-Stack Web Engineering:** Scalable microservices, RESTful APIs, and reactive SPAs built with modern TypeScript, React, Next.js, and Node.js.
-- 🎮 **Game Physics & Canvas Engines:** Zero-dependency procedural 2D canvas engines, real-time audio synthesis (Web Audio API), and PWA architectures.
-- 🧪 **AI & Quantitative Tools:** Intelligent resume generators, financial market regime classifiers (HMM), and interactive analytics simulators.
-- ⚡ **Database & Cloud Systems:** Efficient database queries (PostgreSQL, MongoDB), Docker containerization, and seamless CI/CD delivery pipelines.
+- 📱 **Native Android & Mobile Systems:** Local-first architectures, Kotlin Jetpack Compose, Room SQLite, System Accessibility APIs, and Google Play Billing.
+- 🧪 **AI & Quantitative Financial Tools:** Google Gemini AI natural language strategy compilers, multi-asset backtesting engines, and Monte Carlo risk simulators.
+- ⚡ **Database & Cloud Systems:** Supabase PostgreSQL with RLS, Docker containerization, and seamless CI/CD automated deployment pipelines.
 
 ---
 
@@ -54,10 +54,10 @@ const khalid = {
 
 | Category | Technologies & Tools |
 |---|---|
-| **Programming Languages** | <img src="https://skillicons.dev/icons?i=js,ts,py,cpp,html,css" alt="Languages"/> |
-| **Frontend Ecosystem** | <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,sass,vite" alt="Frontend"/> |
-| **Backend & Databases** | <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,firebase,graphql" alt="Backend"/> |
-| **DevOps & Cloud** | <img src="https://skillicons.dev/icons?i=docker,gcp,vercel,netlify,githubactions" alt="DevOps"/> |
+| **Programming Languages** | <img src="https://skillicons.dev/icons?i=kotlin,js,ts,py,cpp,html,css" alt="Languages"/> |
+| **Mobile & Frontend** | <img src="https://skillicons.dev/icons?i=androidstudio,react,nextjs,tailwind,bootstrap,vite" alt="Frontend"/> |
+| **Backend & Databases** | <img src="https://skillicons.dev/icons?i=supabase,nodejs,express,postgres,mongodb,firebase" alt="Backend"/> |
+| **DevOps & Cloud** | <img src="https://skillicons.dev/icons?i=docker,gcp,vercel,cloudflare,githubactions" alt="DevOps"/> |
 | **Workflow & Tooling** | <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,linux" alt="Tools"/> |
 
 </div>
@@ -67,51 +67,80 @@ const khalid = {
 ### 🌟 Featured Projects
 
 <table>
+  <!-- ROW 1: ASAR (Android) & CV-Builder -->
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🎮 Oops! — 2D Ninja Platformer</h3>
+      <h3 align="center">📱 ASAR — Focus & Digital Discipline</h3>
       <p align="center">
-        <a href="https://oops-snowy-three.vercel.app/"><img src="oops_preview.png" width="100%" alt="Oops! Game"/></a>
+        <a href="https://github.com/khalidabdullahh/AegisFocus"><img src="asar_preview.png" width="100%" alt="ASAR Focus App"/></a>
       </p>
-      <p>A deceptive, trap-filled 2D HTML5 platformer inspired by Level Devil with procedural Web Audio sound synthesis, mobile touch gamepad, and offline PWA capability.</p>
+      <p>A native, local-first Android focus and digital discipline application engineered with Kotlin Jetpack Compose, Room SQLite, Supabase Cloud Sync, Google Play Billing, and Device Admin anti-uninstall protection.</p>
       <p align="center">
-        <a href="https://oops-snowy-three.vercel.app/"><b>🕹️ Play Live in Browser</b></a> &nbsp;|&nbsp;
-        <a href="https://github.com/khalidabdullahh/Oops"><b>📂 Source Code</b></a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🧪 Khalid Digital Lab</h3>
-      <p align="center">
-        <a href="https://khalid-digital-lab.vercel.app"><img src="digital_lab_preview.png" width="100%" alt="Khalid Digital Lab"/></a>
-      </p>
-      <p>Interactive personal digital laboratory & innovation hub featuring HMM market regime classifiers, interactive ATS matching, and developer CLI tools.</p>
-      <p align="center">
-        <a href="https://khalid-digital-lab.vercel.app"><b>🚀 Live Web App</b></a> &nbsp;|&nbsp;
-        <a href="https://github.com/khalidabdullahh/khalid-digital-lab"><b>📂 Source Code</b></a>
+        <a href="https://github.com/khalidabdullahh/AegisFocus/releases"><b>📲 Download APK Release</b></a> &nbsp;|&nbsp;
+        <a href="https://github.com/khalidabdullahh/AegisFocus"><b>📂 Source Code</b></a>
       </p>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3 align="center">📄 CV-Builder — AI Resume Generator</h3>
       <p align="center">
         <a href="https://first-project-plum-phi.vercel.app"><img src="cv_builder_preview.png" width="100%" alt="CV-Builder"/></a>
       </p>
-      <p>An intelligent, ATS-friendly resume creator featuring 10 customizable professional models, Google Gemini AI writing assistant, and 1-click HD PDF export.</p>
+      <p>An intelligent, ATS-friendly resume creator featuring 10 customizable professional models, Google Gemini AI writing assistant, and 1-click HD PDF export without site clutter.</p>
       <p align="center">
         <a href="https://first-project-plum-phi.vercel.app"><b>🚀 Live Web App</b></a> &nbsp;|&nbsp;
         <a href="https://github.com/khalidabdullahh/CV-Builder"><b>📂 Source Code</b></a>
       </p>
     </td>
+  </tr>
+
+  <!-- ROW 2: Lumen OS (Trading-OS) & Gesture Volume -->
+  <tr>
     <td width="50%" valign="top">
-      <h3 align="center">📊 Trading-OS</h3>
+      <h3 align="center">📊 Lumen OS — Quant Trading Terminal</h3>
       <p align="center">
-        <a href="https://trading-os-blue.vercel.app"><img src="trading_os_preview.png" width="100%" alt="Trading-OS"/></a>
+        <a href="https://trading-os-blue.vercel.app"><img src="trading_os_preview.png" width="100%" alt="Lumen OS Trading-OS"/></a>
       </p>
-      <p>A modern financial market analytics and trading operating system architecture designed for real-time charting, telemetry, and portfolio tracking.</p>
+      <p>An institutional quantitative trading platform featuring Google Gemini AI strategy compilation, multi-asset backtesting (Crypto, Forex, Gold, Stocks), and Monte Carlo stress lab.</p>
       <p align="center">
         <a href="https://trading-os-blue.vercel.app"><b>🚀 Live Web App</b></a> &nbsp;|&nbsp;
-        <a href="https://github.com/khalidabdullahh/Trading-OS"><b>📂 Source Code</b></a>
+        <a href="https://github.com/khalidabdullahh/LumenOS"><b>📂 Source Code</b></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🎛️ Gesture Volume — Android Utility</h3>
+      <p align="center">
+        <a href="https://khalidabdullahh.github.io/GestureVolume/"><img src="gesture_volume_preview.png" width="100%" alt="Gesture Volume"/></a>
+      </p>
+      <p>A lightweight, privacy-first Android system utility for on-screen circular gesture volume control designed for devices with broken, unreliable, or inaccessible physical buttons.</p>
+      <p align="center">
+        <a href="https://khalidabdullahh.github.io/GestureVolume/"><b>🌐 Live Simulator</b></a> &nbsp;|&nbsp;
+        <a href="https://github.com/khalidabdullahh/GestureVolume"><b>📂 Source Code</b></a>
+      </p>
+    </td>
+  </tr>
+
+  <!-- ROW 3: CodeForge Mobile & AreNex eSports -->
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">⚡ CodeForge Mobile — Phone & Web IDE</h3>
+      <p align="center">
+        <a href="https://codeforgemobile.pages.dev"><img src="codeforge_preview.png" width="100%" alt="CodeForge Mobile"/></a>
+      </p>
+      <p>An Android-first, VS Code-inspired responsive mobile IDE for phones and browsers with Monaco code editor, live code runners, terminal output, and offline PWA capability.</p>
+      <p align="center">
+        <a href="https://codeforgemobile.pages.dev"><b>🚀 Launch Web IDE</b></a> &nbsp;|&nbsp;
+        <a href="https://github.com/khalidabdullahh/CodeForgeMobile"><b>📂 Source Code</b></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🏆 AreNex — Esports Tournament Platform</h3>
+      <p align="center">
+        <a href="https://github.com/khalidabdullahh/eSports"><img src="esports_preview.png" width="100%" alt="AreNex Esports Platform"/></a>
+      </p>
+      <p>Next-generation mobile-first esports tournament platform architected for Battle Royale tournaments with real-time slot booking, live bracket sync, and automated point table calculation.</p>
+      <p align="center">
+        <a href="https://github.com/khalidabdullahh/eSports"><b>🛡️ Platform Overview</b></a> &nbsp;|&nbsp;
+        <a href="https://github.com/khalidabdullahh/eSports"><b>📂 Source Code</b></a>
       </p>
     </td>
   </tr>
