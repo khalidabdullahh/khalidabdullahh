@@ -72,7 +72,7 @@ const khalid = {
     <td width="50%" valign="top">
       <h3 align="center">📱 ASAR — Focus & Digital Discipline</h3>
       <p align="center">
-        <a href="https://github.com/khalidabdullahh/AegisFocus"><img src="asar_preview.png" width="100%" alt="ASAR Focus App"/></a>
+        <a href="https://github.com/khalidabdullahh/AegisFocus"><img src="asar_landing.png" width="100%" alt="ASAR Focus App"/></a>
       </p>
       <p>A native, local-first Android focus and digital discipline application engineered with Kotlin Jetpack Compose, Room SQLite, Supabase Cloud Sync, Google Play Billing, and Device Admin anti-uninstall protection.</p>
       <p align="center">
@@ -109,7 +109,7 @@ const khalid = {
     <td width="50%" valign="top">
       <h3 align="center">🎛️ Gesture Volume — Android Utility</h3>
       <p align="center">
-        <a href="https://khalidabdullahh.github.io/GestureVolume/"><img src="gesture_volume_preview.png" width="100%" alt="Gesture Volume"/></a>
+        <a href="https://khalidabdullahh.github.io/GestureVolume/"><img src="gesture_volume_landing.png" width="100%" alt="Gesture Volume"/></a>
       </p>
       <p>A lightweight, privacy-first Android system utility for on-screen circular gesture volume control designed for devices with broken, unreliable, or inaccessible physical buttons.</p>
       <p align="center">
