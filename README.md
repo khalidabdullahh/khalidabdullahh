@@ -83,7 +83,7 @@ const khalid = {
     <td width="50%" valign="top">
       <h3 align="center">📄 CV-Builder — AI Resume Generator</h3>
       <p align="center">
-        <a href="https://first-project-plum-phi.vercel.app"><img src="cv_builder_preview.png" width="100%" alt="CV-Builder"/></a>
+        <a href="https://first-project-plum-phi.vercel.app"><img src="cv_builder_landing.png" width="100%" alt="CV-Builder"/></a>
       </p>
       <p>An intelligent, ATS-friendly resume creator featuring 10 customizable professional models, Google Gemini AI writing assistant, and 1-click HD PDF export without site clutter.</p>
       <p align="center">
@@ -98,7 +98,7 @@ const khalid = {
     <td width="50%" valign="top">
       <h3 align="center">📊 Lumen OS — Quant Trading Terminal</h3>
       <p align="center">
-        <a href="https://trading-os-blue.vercel.app"><img src="trading_os_preview.png" width="100%" alt="Lumen OS Trading-OS"/></a>
+        <a href="https://trading-os-blue.vercel.app"><img src="trading_os_landing.png" width="100%" alt="Lumen OS Trading-OS"/></a>
       </p>
       <p>An institutional quantitative trading platform featuring Google Gemini AI strategy compilation, multi-asset backtesting (Crypto, Forex, Gold, Stocks), and Monte Carlo stress lab.</p>
       <p align="center">
@@ -124,7 +124,7 @@ const khalid = {
     <td width="50%" valign="top">
       <h3 align="center">⚡ CodeForge Mobile — Phone & Web IDE</h3>
       <p align="center">
-        <a href="https://codeforgemobile.pages.dev"><img src="codeforge_preview.png" width="100%" alt="CodeForge Mobile"/></a>
+        <a href="https://codeforgemobile.pages.dev"><img src="codeforge_landing.png" width="100%" alt="CodeForge Mobile"/></a>
       </p>
       <p>An Android-first, VS Code-inspired responsive mobile IDE for phones and browsers with Monaco code editor, live code runners, terminal output, and offline PWA capability.</p>
       <p align="center">
@@ -135,7 +135,7 @@ const khalid = {
     <td width="50%" valign="top">
       <h3 align="center">🏆 AreNex — Esports Tournament Platform</h3>
       <p align="center">
-        <a href="https://github.com/khalidabdullahh/eSports"><img src="esports_preview.png" width="100%" alt="AreNex Esports Platform"/></a>
+        <a href="https://github.com/khalidabdullahh/eSports"><img src="esports_landing.png" width="100%" alt="AreNex Esports Platform"/></a>
       </p>
       <p>Next-generation mobile-first esports tournament platform architected for Battle Royale tournaments with real-time slot booking, live bracket sync, and automated point table calculation.</p>
       <p align="center">
