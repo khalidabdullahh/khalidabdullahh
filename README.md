@@ -154,16 +154,11 @@ const khalid = {
 
 <p align="center">
   <a href="https://github.com/khalidabdullahh">
-    <img src="https://github-readme-stats.vercel.app/api?username=khalidabdullahh&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=00f2fe&icon_color=00f2fe&text_color=c9d1d9&border_color=21262d&border_radius=10&rank_icon=github" alt="Khalid's GitHub Stats" width="49%"/>
+    <img src="https://github-stats-alpha.vercel.app/api?username=khalidabdullahh&cc=0d1117&tc=00f2fe&ic=7f52ff&bc=21262d" alt="Khalid's GitHub Stats" width="49%"/>
   </a>
+  &nbsp;
   <a href="https://github.com/khalidabdullahh">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=khalidabdullahh&theme=tokyonight&background=0d1117&border=21262d&stroke=00f2fe&ring=00f2fe&fire=00f2fe&currStreakNum=00f2fe&sideNums=7f52ff&currStreakLabel=00f2fe&sideLabels=8b949e&dates=8b949e&border_radius=10" alt="GitHub Streak" width="49%"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/khalidabdullahh">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khalidabdullahh&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=00f2fe&text_color=c9d1d9&border_color=21262d&border_radius=10" alt="Top Languages" width="60%"/>
   </a>
 </p>
 
