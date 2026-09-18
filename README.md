@@ -152,69 +152,57 @@ const khalid = {
 
 <div align="center">
 
-<table border="0">
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://github-stats-alpha.vercel.app/api?username=khalidabdullahh&cc=0d1117&tc=ff4757&ic=ffd32a&bc=00000000" alt="GitHub Stats" width="100%"/>
-    </td>
-    <td align="center" width="50%">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=khalidabdullahh&theme=tokyonight&hide_border=true&background=0d1117&ring=ff4757&fire=ffd32a&currStreakLabel=ff4757&currStreakNum=ffd32a" alt="GitHub Streak" width="100%"/>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://github.com/khalidabdullahh">
+    <img src="https://github-readme-stats.vercel.app/api?username=khalidabdullahh&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=00f2fe&icon_color=00f2fe&text_color=c9d1d9&border_color=21262d&border_radius=10&rank_icon=github" alt="Khalid's GitHub Stats" width="49%"/>
+  </a>
+  <a href="https://github.com/khalidabdullahh">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=khalidabdullahh&theme=tokyonight&background=0d1117&border=21262d&stroke=00f2fe&ring=00f2fe&fire=00f2fe&currStreakNum=00f2fe&sideNums=7f52ff&currStreakLabel=00f2fe&sideLabels=8b949e&dates=8b949e&border_radius=10" alt="GitHub Streak" width="49%"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/khalidabdullahh">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khalidabdullahh&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=00f2fe&text_color=c9d1d9&border_color=21262d&border_radius=10" alt="Top Languages" width="60%"/>
+  </a>
+</p>
 
 </div>
 
 ---
 
-### 🤝 Connect with Me
+### 🤝 Connect & Collaborate
 
 <div align="center">
 
 <p>Feel free to reach out for collaborations, project inquiries, or just to say hello!</p>
 
-<table border="0">
-  <tr>
-    <td align="center">
-      <a href="mailto:seamafridi1237890@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-seamafridi1237890%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.linkedin.com/in/khalidabdullahh/" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-Khalid%20Abdullah-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://wa.me/8801643526721" target="_blank">
-        <img src="https://img.shields.io/badge/WhatsApp-%2B8801643526721-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.facebook.com/khalidabdullah19" target="_blank">
-        <img src="https://img.shields.io/badge/Facebook-khalidabdullah19-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <a href="https://github.com/khalidabdullahh">
-        <img src="https://img.shields.io/badge/GitHub-khalidabdullahh-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-      </a>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="mailto:seamafridi1237890@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/khalidabdullahh/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  &nbsp;
+  <a href="https://wa.me/8801643526721" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+  </a>
+  &nbsp;
+  <a href="https://www.facebook.com/khalidabdullah19" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/khalidabdullahh">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
 
-</div>
-
----
-
-<div align="center">
+<br/>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=khalidabdullahh&label=Profile%20Views&color=00f2fe&style=flat-square" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=khalidabdullahh&label=⚡%20PROFILE%20VIEWS&color=00f2fe&style=for-the-badge" alt="Profile Views"/>
 </p>
 
 </div>
