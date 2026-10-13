@@ -81,14 +81,14 @@ const khalid = {
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">📄 CV-Builder — AI Resume Generator</h3>
+      <h3 align="center">📄 FreeAICV — AI Career & Resume Platform</h3>
       <p align="center">
-        <a href="https://first-project-plum-phi.vercel.app"><img src="cv_builder_landing.png" width="100%" alt="CV-Builder"/></a>
+        <a href="https://www.freeaicv.me"><img src="cv_builder_landing.png" width="100%" alt="FreeAICV.me"/></a>
       </p>
-      <p>An intelligent, ATS-friendly resume creator featuring 10 customizable professional models, Google Gemini AI writing assistant, and 1-click HD PDF export without site clutter.</p>
+      <p>An intelligent, ATS-optimized career and resume builder featuring 30 AI models, 17 professional tools, custom templates, and 1-click job-ready HD PDF export.</p>
       <p align="center">
-        <a href="https://first-project-plum-phi.vercel.app"><b>🚀 Live Web App</b></a> &nbsp;|&nbsp;
-        <a href="https://github.com/khalidabdullahh/CV-Builder"><b>📂 Source Code</b></a>
+        <a href="https://www.freeaicv.me"><b>🚀 Live Web App</b></a> &nbsp;|&nbsp;
+        <a href="https://github.com/khalidabdullahh/freeaicv.me"><b>📂 Source Code</b></a>
       </p>
     </td>
   </tr>
@@ -119,7 +119,7 @@ const khalid = {
     </td>
   </tr>
 
-  <!-- ROW 3: CodeForge Mobile & AreNex eSports -->
+  <!-- ROW 3: CodeForge Mobile & A.R.E.S. -->
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">⚡ CodeForge Mobile — Phone & Web IDE</h3>
@@ -133,14 +133,14 @@ const khalid = {
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🏆 AreNex — Esports Tournament Platform</h3>
+      <h3 align="center">🛰️ A.R.E.S. — Executive Terminal AI</h3>
       <p align="center">
-        <a href="https://github.com/khalidabdullahh/eSports"><img src="esports_landing.png" width="100%" alt="AreNex Esports Platform"/></a>
+        <a href="https://github.com/khalidabdullahh/ares"><img src="ares_landing.svg" width="100%" alt="A.R.E.S. Terminal AI"/></a>
       </p>
-      <p>Next-generation mobile-first esports tournament platform architected for Battle Royale tournaments with real-time slot booking, live bracket sync, and automated point table calculation.</p>
+      <p>A private, voice-enabled executive terminal AI companion engineered for zero-leak local computation, neural speech synthesis, and autonomous workflow assistance.</p>
       <p align="center">
-        <a href="https://github.com/khalidabdullahh/eSports"><b>🛡️ Platform Overview</b></a> &nbsp;|&nbsp;
-        <a href="https://github.com/khalidabdullahh/eSports"><b>📂 Source Code</b></a>
+        <a href="https://github.com/khalidabdullahh/ares"><b>⚡ System Architecture</b></a> &nbsp;|&nbsp;
+        <a href="https://github.com/khalidabdullahh/ares"><b>📂 Source Code</b></a>
       </p>
     </td>
   </tr>
