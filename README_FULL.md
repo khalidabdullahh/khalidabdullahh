@@ -135,7 +135,7 @@ const khalid = {
     <td width="50%" valign="top">
       <h3 align="center">🛰️ A.R.E.S. — Executive Terminal AI</h3>
       <p align="center">
-        <a href="https://github.com/khalidabdullahh/ares"><img src="ares_landing.svg" width="100%" alt="A.R.E.S. Terminal AI"/></a>
+        <a href="https://github.com/khalidabdullahh/ares"><img src="ares_landing.png" width="100%" alt="A.R.E.S. Terminal AI"/></a>
       </p>
       <p>A private, voice-enabled executive terminal AI companion engineered for zero-leak local computation, neural speech synthesis, and autonomous workflow assistance.</p>
       <p align="center">
