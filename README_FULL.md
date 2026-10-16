@@ -88,7 +88,7 @@ const khalid = {
       <p>An intelligent, ATS-optimized career and resume builder featuring 30 AI models, 17 professional tools, custom templates, and 1-click job-ready HD PDF export.</p>
       <p align="center">
         <a href="https://www.freeaicv.me"><b>🚀 Live Web App</b></a> &nbsp;|&nbsp;
-        <a href="https://github.com/khalidabdullahh/freeaicv.me"><b>📂 Source Code</b></a>
+        <a href="https://github.com/khalidabdullahh/CareerHub"><b>⚡ Architecture & Spec</b></a>
       </p>
     </td>
   </tr>
@@ -103,7 +103,7 @@ const khalid = {
       <p>An institutional quantitative trading platform featuring Google Gemini AI strategy compilation, multi-asset backtesting (Crypto, Forex, Gold, Stocks), and Monte Carlo stress lab.</p>
       <p align="center">
         <a href="https://trading-os-blue.vercel.app"><b>🚀 Live Web App</b></a> &nbsp;|&nbsp;
-        <a href="https://github.com/khalidabdullahh/LumenOS"><b>📂 Source Code</b></a>
+        <a href="https://github.com/khalidabdullahh/TradingHub"><b>⚡ Architecture & Spec</b></a>
       </p>
     </td>
     <td width="50%" valign="top">
